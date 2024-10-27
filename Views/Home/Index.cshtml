@@ -1,0 +1,7 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<h1>Поточна погода</h1>
+
+@await Component.InvokeAsync("Weather", new { region = "Kyiv" })

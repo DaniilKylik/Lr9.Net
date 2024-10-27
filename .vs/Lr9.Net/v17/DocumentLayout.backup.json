@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\views\\shared\\components\\weather\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:views\\shared\\components\\weather\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\views\\shared\\components\\producttable\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:views\\shared\\components\\producttable\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\components\\producttableviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:components\\producttableviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\components\\weatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:components\\weatherviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|c:\\users\\maksk\\source\\repos\\lr9.net\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A54B516F-98FC-46C4-89BB-9B604680CB56}|Lr9.Net.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:17:05.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:15:04.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Models\\WeatherData.cs",
+              "RelativeToolTip": "Models\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:20:47.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T07:18:38.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T08:11:27.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\ProductTable\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T07:10:04.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Weather\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T07:13:13.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductTableViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Components\\ProductTableViewComponent.cs",
+              "RelativeDocumentMoniker": "Components\\ProductTableViewComponent.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Components\\ProductTableViewComponent.cs",
+              "RelativeToolTip": "Components\\ProductTableViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:08:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Services\\WeatherService.cs",
+              "RelativeToolTip": "Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:11:16.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:53:44.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Components\\WeatherViewComponent.cs",
+              "RelativeDocumentMoniker": "Components\\WeatherViewComponent.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Components\\WeatherViewComponent.cs",
+              "RelativeToolTip": "Components\\WeatherViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:12:10.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:22:50.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T07:58:52.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\maksk\\source\\repos\\Lr9.Net\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-27T07:53:04.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

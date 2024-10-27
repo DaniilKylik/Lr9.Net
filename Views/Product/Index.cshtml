@@ -1,0 +1,5 @@
+﻿@model IEnumerable<Lr9.Net.Models.Product>
+
+<h1>Продукти</h1>
+
+@await Component.InvokeAsync("ProductTable", new { products = Model })

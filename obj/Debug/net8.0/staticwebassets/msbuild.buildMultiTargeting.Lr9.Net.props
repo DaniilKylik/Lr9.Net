@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Lr9.Net.props" />
+</Project>

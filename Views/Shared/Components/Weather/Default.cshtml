@@ -1,0 +1,9 @@
+﻿@model Lr9.Net.Models.WeatherData
+
+<h2>Погода у @Model.Name</h2>
+<ul>
+    <li>Температура: @Model.Main.Temp°C</li>
+    <li>Вологість: @Model.Main.Humidity%</li>
+    <li>Швидкість вітру: @Model.Wind.Speed м/с</li>
+    <li>Опис погоди: @Model.Weather.FirstOrDefault()?.Description</li>
+</ul>
